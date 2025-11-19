@@ -1,5 +1,5 @@
 ---
-day: 14
+day: 19
 creator: Elizabeth Delmelle
 title: Shackleton Antarctic Journey
 thumbnail: /assets/thumbnails/2025/19-delmelle.png
